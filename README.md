@@ -50,5 +50,5 @@ Step 4. Pushing the images to the docker container.
 In the dockerhub, a repository called kehindeafusat/adeniye was created to allow the pushing of images from the container to docker
 using the command -- docker push kehindeafusat/adeniye:finalImage
 
-link to my dockerhub:https://hub.docker.com/repository/docker/kehindeafusat/adeniye
+link to my dockerhub: https://hub.docker.com/repository/docker/kehindeafusat/adeniye
 
