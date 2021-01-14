@@ -41,8 +41,12 @@ Output:
 /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 /docker-entrypoint.sh: Configuration complete; ready for start up
 
- link to my application running http://127.0.0.1/kennypage.html	
+ link to my application running 
+ 
+ http://127.0.0.1/kennypage.html	
+ 
  http://localhost/
+ 
  http://localhost/8080
 
 Step 4. Pushing the images to the docker container.
