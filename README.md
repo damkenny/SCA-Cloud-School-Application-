@@ -11,7 +11,7 @@ and a docker file with the following command"
 FROM nginx:alpine
 COPY . /usr/share/nginx/html " which was copying the content (images) of the directory into the container.
 
-The docker desktop has to be running before the docker file can be created.
+The docker desktop was downloaded on my Virtual Machine,  was running locally and online on the docker hub becuase it has to be running before the docker file can be created.
 
 
 Step 2. Creating the image
@@ -47,8 +47,7 @@ Output:
  
  http://localhost/
  
- http://localhost/8080
-
+ 
 Step 4. Pushing the images to the docker container.
 
 In the dockerhub, a repository called kehindeafusat/adeniye was created to allow the pushing of images from the container to docker
